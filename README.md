@@ -22,7 +22,7 @@ or
 driver.switch_to.window("2")
 ```
 
-For full code, refer to `tests/tab_switch.py`.
+For full code, refer to `tabs.py`.
 ### Run your test
 
 ```bash
