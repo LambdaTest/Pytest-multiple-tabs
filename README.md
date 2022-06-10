@@ -26,8 +26,7 @@ For full code, refer to `tests/tab_switch.py`.
 ### Run your test
 
 ```bash
-cd tests //navigate to tests directory
-python tests/tabs.py
+python tabs.py
 ```
 
 # Links:
